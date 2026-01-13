@@ -1,0 +1,11 @@
+Outline
+1) 量子機械学習により、基底状態の計算を行う。
+2) Classical Tomographにより、overlapの計算を行う。
+3) 最終的にVQDで励起状態計算を行う。
+
+What to do
+・classicalとスワップテストの比較の論文
+・NN-QSTの論文のスライド作成
+
+Report
+・classicalのVQDを使った論文はなし
